@@ -2,7 +2,7 @@
   "name": "cmake-tools-multi-lang",
   "displayName": "CMake Tools Multi-Language",
   "description": "Extended CMake support in Visual Studio Code fork with Multi-Language support",
-  "version": "1.20.17",
+  "version": "1.20.19",
   "publisher": "openspacelaunchfoundation",
   "repository": {
     "type": "git",
