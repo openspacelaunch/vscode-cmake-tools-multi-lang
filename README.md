@@ -4,7 +4,7 @@
 
 [CMake Tools Multi-Language](https://marketplace.visualstudio.com/items?itemName=OpenSpaceLaunchFoundation.cmake-tools-multi-lang) adds `cmake.enabled`, If 'false', CMake Tools skips the workspace, can be set at folder level. E.g. Skip folders that do not use CMake.
 
-Was made because author had a workspace with multiple roots (aka projects). Some of them Python, Fortran, JavaScript and we want to have a setting to disable this extension on those roots. This stops the extension from running CMake build actions, CTest stubs and Intellisense on non-CMake projects!
+This fork was made because the author has a workspace with multiple roots (aka projects). Some of them are Python, Fortran or JavaScript projects and we want to have a setting to disable this extension on those roots. This stops the extension from running CMake build actions, CTest stubs and Intellisense on non-CMake projects!
 
 ### Use Case Demo
 
@@ -12,7 +12,7 @@ Was made because author had a workspace with multiple roots (aka projects). Some
 
 [Closed Pull Request on Upstream Repo](https://github.com/microsoft/vscode-cmake-tools/pull/3646)
 
-[Github Repo](https://github.com/openspacelaunch/vscode-cmake-tools-multi-lang)
+[GitHub Repo](https://github.com/openspacelaunch/vscode-cmake-tools-multi-lang)
 
 Maintained by the [Open Space Launch Foundation](https://github.com/openspacelaunch).
 
