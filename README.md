@@ -8,7 +8,7 @@ Was made because author had a workspace with multiple roots (aka projects). Some
 
 ### Use Case Demo
 
-![Use Case Demo](docs/images/cmake-tools-multi-language-demo.gif)
+![Use Case Demo](https://openspacelaunch.github.io/images/cmake-tools-multi-language-demo.gif)
 
 [Closed Pull Request on Upstream Repo](https://github.com/microsoft/vscode-cmake-tools/pull/3646)
 
